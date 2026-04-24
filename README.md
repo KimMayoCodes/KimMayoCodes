@@ -21,7 +21,8 @@ I’m currently seeking a **Junior Web Developer** role where I can contribute t
 Python • JavaScript • SQL • C#  
 
 **Frameworks & Libraries:**  
-Django • Django REST Framework • React  
+Frameworks & Libraries:
+Django • Django REST Framework • React • BeautifulSoup • pandas • matplotlib
 
 **Web Technologies:**  
 HTML5 • CSS3 • REST APIs • JSON • JWT Authentication  
